@@ -18,6 +18,7 @@ namespace C_2_Project_Hykal
         // A method that displays the text
         public void DisplayText()
         {
+            //// Guitar solo
             //Console.WriteLine("ZRNÍ - HÝKAL");
             //Console.WriteLine();
 
@@ -26,6 +27,7 @@ namespace C_2_Project_Hykal
             //Pause(8 * 16);
             //Console.Clear();
 
+            // Singing
             Console.WriteLine("ZRNÍ - HÝKAL");
 
             Console.WriteLine();
